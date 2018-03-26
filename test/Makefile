@@ -1,9 +1,8 @@
- X := student
- Y := $(X)
- X := teacher
 
-all:
-	@echo $(X) $(Y)
+all: lijun
+
+lijun: lijun.c
+	gcc -o $@ $^ -static
 
 clean:
 	rm lijun
