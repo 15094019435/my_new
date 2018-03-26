@@ -4,3 +4,6 @@
 
 all:
 	@echo $(X) $(Y)
+
+clean:
+	rm lijun
