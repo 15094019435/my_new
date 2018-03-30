@@ -1,0 +1,1 @@
+cmd_/home/lijun/learngit/mystudy/mydrv/hello_pcdrv/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/lijun/learngit/mystudy/mydrv/hello_pcdrv/hello.ko /home/lijun/learngit/mystudy/mydrv/hello_pcdrv/hello.o /home/lijun/learngit/mystudy/mydrv/hello_pcdrv/hello.mod.o ;  true

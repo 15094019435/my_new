@@ -1,0 +1,1 @@
+cmd_/home/lijun/learngit/mystudy/mydrv/myfirst_drv/first_drv.ko := arm-linux-ld -EL  -r -o /home/lijun/learngit/mystudy/mydrv/myfirst_drv/first_drv.ko /home/lijun/learngit/mystudy/mydrv/myfirst_drv/first_drv.o /home/lijun/learngit/mystudy/mydrv/myfirst_drv/first_drv.mod.o
